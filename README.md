@@ -12,12 +12,11 @@ Used File Handling in C for storing data in Tree
 - Delete Audiobook: Remove an audiobook from the library.
 - Search Audiobook: Find audiobooks based on various criteria.
 - Add User Profile: Create a new user profile.
-- Add to User Library: Allow users to manage their audiobook library.
+- Add and Remove to/from User Library: Allow users to manage their audiobook library.
 - Listening Progress: Update listening progress for audiobooks.
 - Display User Libraries: View audiobooks in a user's library.
 - Rate Audiobook: Rate an audiobook to contribute to its feedback score.
 - Most Popular Audiobook: Find the most popular audiobook based on ratings.
 - Listening History Report(user): Generate a report of audiobooks listened to by a user.
-- Merge User Libraries: Combine audiobook libraries of two users.
 - Listening History Report (Audiobook): Generate a report of listening history for an audiobook.
-- sort the Main AudioLibrary According to the Average Rating
+- RangeSearch AudioBook: Print titles of audiobooks with ID which have audiobook IDs between audiobook id1 and audiobook id2.
