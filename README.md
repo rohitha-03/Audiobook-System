@@ -1,9 +1,9 @@
 # Audiobook Library System
 
-This is a C Implementation Using a linked list data structure, and developed an audiobook library system where a user list and audiobook list are maintained. 
+This is a C Implementation Using a AVL Tree data structure, and developed an audiobook library system where a user list and audiobook list are maintained. 
 Efficient management of audiobooks and user interactions, including listening progress, library management, and user preferences, are the focus of this system. 
 Quick access to audiobooks, effective tracking of users' listening progress, and support for user libraries and preferences are provided by the system.
-Used File Handling in C for storing data in Linked List
+Used File Handling in C for storing data in Tree
 
 ## Functionality
 
